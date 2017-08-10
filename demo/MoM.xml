@@ -26,12 +26,9 @@
             <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
             <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/jquery.nivo.slider.js"></script>
             <script type="text/javascript">
-            $( document ).ready(function() {
                      $(window).on('load', function () {
                     $('#slider').nivoSlider();
                 });
-              });
-              
             </script>
         </body>
     </html>
