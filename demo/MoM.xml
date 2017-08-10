@@ -20,12 +20,12 @@
             <div id="wrapper">
               <div class="slider-wrapper theme-default">
                 <div id="slider" class="nivoSlider">
-                <img src="images/Mina.jpg" data-thumb="images/Mina.jpg" alt="" title="June 2017"/>
-                <img src="images/Mina.jpg" data-thumb="images/Mina.jpg" alt="" data-transition="slideInLeft" title="May 2017" />
-                <img src="images/Mina.jpg" data-thumb="images/Mark.jpg" alt="" data-transition="slideInLeft" title="March 2017" />
-                <img src="images/Mina.jpg" data-thumb="images/Mark.jpg" alt="" data-transition="slideInLeft" title="February 2017" />
-                <img src="images/Mina.jpg" data-thumb="images/Mark.jpg" alt="" data-transition="slideInLeft" title="January 2017" />
-                <img src="images/Pau.jpg" data-thumb="images/Pau.jpg" alt="" data-transition="slideInLeft" title="December 2016"/>
+                <img src="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mina.JPG" data-thumb="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mina.JPG" alt="" title="June 2017"/>
+                <img src="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mina.JPG" data-thumb="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mina.JPG" alt="" data-transition="slideInLeft" title="May 2017" />
+                <img src="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mark.JPG" data-thumb="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mark.JPG" alt="" data-transition="slideInLeft" title="March 2017" />
+                <img src="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mark.JPG" data-thumb="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mark.JPG" alt="" data-transition="slideInLeft" title="February 2017" />
+                <img src="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mark.JPG" data-thumb="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mark.JPG" alt="" data-transition="slideInLeft" title="January 2017" />
+                <img src="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Pau.JPG" data-thumb="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Pau.JPG" alt="" data-transition="slideInLeft" title="December 2016"/>
                 </div>
              </div>
             </div>
