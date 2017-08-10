@@ -16,7 +16,7 @@
             <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/demo/style.css" type="text/css" media="screen" />
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/nivo-slider.css" type="text/css" media="screen" />     
             <style>
-                #slider > .nivo-slice {height:100%;}
+                #slider > .nivo-slice {height:100% !important; }
             </style>
         </head>
         <body>
