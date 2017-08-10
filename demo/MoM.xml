@@ -8,11 +8,18 @@
         <html lang="en">
         <head>
             <title>Nivo Slider Demo</title>
+            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/themes/default/default.css" type="text/css" media="screen" />
+            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/themes/light/light.css" type="text/css" media="screen" />
+            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/themes/dark/dark.css" type="text/css" media="screen" />
+            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/themes/bar/bar.css" type="text/css" media="screen" />
+            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/nivo-slider.css" type="text/css" media="screen" />
+            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/demo/style.css" type="text/css" media="screen" />
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/nivo-slider.css" type="text/css" media="screen" />      
         </head>
         <body>
             <div id="wrapper">
               <div class="slider-wrapper theme-default">
+              
                 <div id="slider" class="nivoSlider">
                 <img src="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mina.JPG" data-thumb="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mina.JPG" alt="" title="June 2017"/>
                 <img src="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mina.JPG" data-thumb="https://github.com/kd-n/SDT1-MoM/blob/master/demo/images/Mina.JPG" alt="" data-transition="slideInLeft" title="May 2017" />
