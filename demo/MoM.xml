@@ -8,12 +8,12 @@
         <html lang="en">
         <head>
             <title>Nivo Slider Demo</title>
-            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/themes/default/default.css" type="text/css" media="screen" />
-            <!--<link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/themes/light/light.css" type="text/css" media="screen" />
-            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/themes/dark/dark.css" type="text/css" media="screen" />
-            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/themes/bar/bar.css" type="text/css" media="screen" />-->
-            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/nivo-slider.css" type="text/css" media="screen" />
-            <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/demo/style.css" type="text/css" media="screen" /> 
+           <link rel="stylesheet" href="https://raw.githubusercontent.com/kd-n/SDT1-MoM/master/themes/default/default.css" type="text/css" media="screen" />
+           <link rel="stylesheet" href="https://raw.githubusercontent.com/kd-n/SDT1-MoM/master/themes/light/light.css" type="text/css" media="screen" />
+            <link rel="stylesheet" href="https://raw.githubusercontent.com/kd-n/SDT1-MoM/master/themes/dark/dark.css" type="text/css" media="screen" />
+            <link rel="stylesheet" href="https://raw.githubusercontent.com/kd-n/SDT1-MoM/master/themes/bar/bar.css" type="text/css" media="screen" />
+            <link rel="stylesheet" href="https://raw.githubusercontent.com/kd-n/SDT1-MoM/master/nivo-slider.css" type="text/css" media="screen" />
+            <link rel="stylesheet" href="https://raw.githubusercontent.com/kd-n/SDT1-MoM/master/demo/style.css" type="text/css" media="screen" /> 
             <style>
                 #slider > .nivo-slice {height:100% !important; }
             </style>
