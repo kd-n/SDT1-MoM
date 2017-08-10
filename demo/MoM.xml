@@ -14,7 +14,10 @@
             <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/themes/bar/bar.css" type="text/css" media="screen" />
             <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/nivo-slider.css" type="text/css" media="screen" />
             <link rel="stylesheet" href="https://github.com/kd-n/SDT1-MoM/blob/master/demo/style.css" type="text/css" media="screen" />
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/nivo-slider.css" type="text/css" media="screen" />      
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/nivo-slider.css" type="text/css" media="screen" />     
+            <style>
+                #slider > .nivo-slice {height:100%;}
+            </style>
         </head>
         <body>
             <div id="wrapper">
@@ -33,7 +36,7 @@
             <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
             <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/jquery.nivo.slider.js"></script>
             <script type="text/javascript">
-                     $(window).on('load', function () {
+                $(window).on('load', function () {
                     $('#slider').nivoSlider();
                 });
             </script>
