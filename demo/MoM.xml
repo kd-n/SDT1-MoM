@@ -31,7 +31,9 @@
                 $(window).on('load', function () {
                     $('#slider').nivoSlider({
                       effect: 'fade',
-                      startSlide: 0
+                      startSlide: 0,
+                      controlNav: false,
+                      controlNavThumbs: false
                     });
                 });
             </script>
