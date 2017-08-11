@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-   <ModulePrefs title="Event Reminders" />
+   <ModulePrefs title="SDT1-MoM" />
     <Content type="html">
         <![CDATA[
           <!DOCTYPE HTML>
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
             <html lang="en">
               <head>
-                <title>Nivo Slider Demo</title>
+                <title>SDT1-MoM</title>
                 <link rel="stylesheet" href="https://raw.githack.com/kd-n/SDT1-MoM/master/themes/default/default.css" type="text/css" media="screen" />
                 <link rel="stylesheet" href="https://raw.githack.com/kd-n/SDT1-MoM/master/nivo-slider.css" type="text/css" media="screen" />
 	              <link rel="stylesheet" href="https://raw.githack.com/kd-n/SDT1-MoM/master/demo/style.css" type="text/css" media="screen" />
