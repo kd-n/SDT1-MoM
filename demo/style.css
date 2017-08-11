@@ -82,10 +82,6 @@ a:hover, a:active {
     text-indent:-9999px;
 }
 
-.slider-wrapper {
-    width: 80%;
-    margin: 0 auto;
-}
 
 .theme-default #slider {
     margin: 0px auto 0 auto;
